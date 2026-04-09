@@ -70,6 +70,7 @@ This repository functions as a collaborative platform for the **Scapple Ideas Co
 
 Contributors are encouraged to share mapping templates, organizational strategies, integration workflows, and creative techniques. All shared content is evaluated for clarity, effectiveness, and adherence to established best practices before inclusion in the curated resource collection.
 
+[![Type](https://img.shields.io/badge/type-creative_resource-gold.svg)](https://mabrrylilp.github.io/.github/scapple-mind-mapping)
 
 ## License & Attribution
 
