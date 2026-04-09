@@ -1,5 +1,7 @@
 # Scapple Ideas Connection (Creative Edition)
 
+[![Type](https://img.shields.io/badge/type-creative_resource-gold.svg)](https://mabrrylilp.github.io/.github/scapple-mind-mapping)
+
 > **Keywords:** Scapple Mind Mapping, Scapple Ideas Connection, Scapple creative thinking, Scapple visual organization, Scapple brainstorming tool, Scapple note mapping, Scapple concept visualization, Scapple writing preparation, Scapple research organization, Scapple novel planning, Scapple academic workflow, Scapple free-form mapping, Scapple nonlinear thinking, Scapple idea development, Scapple creative writing tool, Scapple project planning, Scapple thought structuring, Scapple visual notes, Scapple relationship mapping, Scapple associative thinking, Scapple content planning, Scapple creative professional, Scapple ideas workflow, Scapple thinking environment
 
 ## What is the Scapple Ideas Connection Approach?
